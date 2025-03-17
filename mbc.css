@@ -1,0 +1,57 @@
+* {
+    font-family: "sora", sans-serif;
+}
+img {
+    border-radius: 15px;
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 18px
+
+}
+
+.design {
+    margin-left: 20px;
+    border-radius: 15px;
+    background-color: #F2EAFD;
+    color: #7C19EE;
+    width: 70px;
+    font-size: 0.625rem;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+    
+
+#card{
+    background-color: FFFFFF;
+    box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
+    border-radius: 15px;;
+    width: 375px;
+    height: 370px;
+}
+
+.text h2 {
+    font-size: 1.125rem;
+    padding-left: 20px;
+
+}
+
+.text p {
+    font-size: 0.875rem;
+    padding-left: 20px;
+    margin-top: -10px;
+    line-height: 1.3rem;
+}
+
+hr {
+    opacity: .3;
+}
+
+.name {
+    padding-left: 20px;
+    font-size: 0.75rem;
+    padding-top: 5px;
+}
